@@ -1,0 +1,16 @@
+{"MetMateriaux": {
+    "echantillon1": {
+        "name": "enrobé",
+        "refLAbo": "17",
+        "AsbestosType": ["Chrysotile", "Actinolite"],
+        "Abestos": true,
+        "archivage":["A1", "A2", "A3"]
+    },
+    "echantillon2": {
+        "name": "colle carrelage",
+        "refLAbo": "7",
+        "AsbestosType": ["Chrysotile"],
+        "Abestos": true,
+        "archivage": ["A4", "A5"]
+    }
+}}
